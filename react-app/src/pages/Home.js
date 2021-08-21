@@ -9,7 +9,7 @@ export const Home = () => {
 
     return (
         <Fragment>
-            <Form />
+            <Form /> 
             <hr/>
             <Notes notes={notes} />
         </Fragment>
